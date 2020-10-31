@@ -9,6 +9,7 @@
 Documentation: English version | [中文版](https://github.com/luolongfei/freenom)
 </div>
 
+
 [📃  Why write this script](#--Why-write-this-script)
 
 [🍭  Demo](#--Demo)
